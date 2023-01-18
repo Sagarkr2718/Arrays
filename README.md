@@ -6,3 +6,5 @@ Given an array A , print all the elements in the reverse order.
 Write a program to print maximum and minimum elements of the input array A of size N. The only line of the input would contain a single integer N that represents the length of the array followed by the N elements of the input array A.
 # Sum of Array
 Write a program to print sum of elements of the input array A of size N.
+# Product of Arrays
+Write a program that returns the product of all elements present in the array.
